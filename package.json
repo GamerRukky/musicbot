@@ -1,8 +1,18 @@
 {
   "name": "musicbot",
-  "description": "a really cool music bot",
   "version": "1.0.0",
-  "engines": {
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.5",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^2.1.7"
     "node": "14.x"
   }
 }
