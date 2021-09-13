@@ -13,6 +13,5 @@
     "ffmpeg-static": "^4.2.5",
     "node-opus": "^0.3.3",
     "ytdl-core": "^2.1.7"
-    "node": "14.x"
   }
 }
