@@ -22,4 +22,4 @@ bot.aliases = new Discord.Collection();
 
 loadCommands(bot);
 
-bot.login(config.token);
+bot.login(process.env.DJS_TOKEN);
